@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/pokemon-paw/static/js/main.d1a954fd.js",
+    "main.js": "/pokemon-paw/static/js/main.75024fdb.js",
     "index.html": "/pokemon-paw/index.html",
-    "main.d1a954fd.js.map": "/pokemon-paw/static/js/main.d1a954fd.js.map"
+    "main.75024fdb.js.map": "/pokemon-paw/static/js/main.75024fdb.js.map"
   },
   "entrypoints": [
-    "static/js/main.d1a954fd.js"
+    "static/js/main.75024fdb.js"
   ]
 }
